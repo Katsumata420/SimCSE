@@ -1,0 +1,3 @@
+[submodule "JapaneseSentEval"]
+	path = JapaneseSentEval
+	url = git@github.com:Katsumata420/SentEval.git
